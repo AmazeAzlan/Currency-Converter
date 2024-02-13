@@ -24,4 +24,3 @@ This is a simple currency converter web application built using HTML, CSS, and J
 ## License
 
 This project is licensed under the MIT License.
-```
